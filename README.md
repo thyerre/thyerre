@@ -7,8 +7,8 @@
 </div>
  <br>
 <div  align="center"> 
-  <a href="https://www.instagram.com/thyerre.rangel/" target="_blank">Instagram</a>
-  <a href="https://www.linkedin.com/in/thyerre-rangel-m-da-silva-3118a412b/" target="_blank">Linkedin</a> 
+  <a href="https://www.instagram.com/thyerre.rangel/" target="_blank">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thyerre-rangel-m-da-silva-3118a412b/" target="_blank">Linkedin</a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://thyerre.github.io" target="_blank">Portfólio</a> 
   
   ![Snake animation](https://github.com/thyerre/thyerre/blob/output/github-contribution-grid-snake.svg)
